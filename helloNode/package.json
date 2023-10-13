@@ -1,0 +1,11 @@
+{
+  "name": "hellonode",
+  "version": "1.0.0",
+  "description": "The web server returns 'Hello Node.js' text in the response",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denis Chuvakov",
+  "license": "ISC"
+}
